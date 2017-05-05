@@ -2,8 +2,8 @@ console.log('Loaded!');
 
 //change the text
 
-var element = document.getElementById("main-text");
-element.innerHTML = "new value";
+/*var element = document.getElementById("main-text");
+element.innerHTML = "new value";*/
 
 //move somethin...
 var img = document.getElementById('madi');
